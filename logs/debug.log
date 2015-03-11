@@ -1,0 +1,11 @@
+2015-03-11 10:16:28,208 - DEBUG: {'data': 'Hello World', 'id': 1}
+2015-03-11 10:16:31,689 - DEBUG: {'id': 1, 'data': 'Hello World'}
+2015-03-11 10:16:32,608 - DEBUG: {'id': 1, 'data': 'Hello World'}
+2015-03-11 10:16:34,141 - DEBUG: {'data': 'Hello World', 'id': 1}
+2015-03-11 10:17:06,219 - DEBUG: {'data': 'Hello World', 'id': 1} {'data': 'Hello World', 'id': 2}
+2015-03-11 10:17:30,156 - DEBUG: {'id': 1, 'data': 'Hello World'} {'id': 2, 'data': 'Hello World'}
+2015-03-11 10:17:44,385 - DEBUG: {'data': 'Hello World', 'id': 1} {'data': 'Hello World', 'id': 2}
+2015-03-11 10:19:15,674 - DEBUG: {'id': 1, 'data': 'Hello World'} {'id': 1, 'data': 'Hello World'}
+2015-03-11 10:23:42,819 - DEBUG: {'id': 1, 'data': 'Hello World'} {'id': 1, 'data': 'Hello World'}
+2015-03-11 10:23:44,540 - DEBUG: {'id': 1, 'data': 'Hello World'} {'id': 1, 'data': 'Hello World'}
+2015-03-11 10:25:32,450 - DEBUG: Hello World
